@@ -1,2 +1,3 @@
 # PORTFOLIO
-Portfólio de projetos.
+
+Portfólio contendo alguns dos meu projetos com Desenvolvimento Front-End.
